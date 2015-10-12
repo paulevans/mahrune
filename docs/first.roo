@@ -1,0 +1,6 @@
+// First mahrune file evar
+/* Multi-line comments fine too */
+
+using stdio.h as stdio;
+
+main() => stdio.fprintf(stdout, "hello world!");
